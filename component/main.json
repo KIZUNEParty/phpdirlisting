@@ -1,0 +1,12 @@
+{
+    "name": "food rand",
+    "desc": "my food randomizer",
+    "icon" : "https://i.imgur.com/igwlvCD.webp",
+    "author": "Suphakit P.",
+    "ogtype": "article",
+    "ogimg": "https://www.thetadivision.com/technomancers.gif",
+    "font": "Kanit",
+    "weight": "200",
+    "fonttype": "sans-serif",
+    "bodybg": "https://www.thetadivision.com/technomancers.gif"
+}
